@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class SkillsDemotester {
+public class SkillsDemoTester{
 
 @Test
     public void addition() {
